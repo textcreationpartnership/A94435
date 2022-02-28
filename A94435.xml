@@ -1,0 +1,378 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sions virgins: or, A short forme of catechisme of the doctrine of baptisme, in use in these times that are so full of questions. By an antient member, of that long agoe gathered congregation, whereof Mr. Henry Jacob was an instrument of gathering it, and the pastour worthy of double honour, Mr. John Lathroppe succeeding him, now pastor in New England; and the beloved congregation, through  Gods mercies sees her teachers, waiting when God shall give more liberty and pastours according to his own heart, praying the Lord of the harvest to thrust forth labourers into his harvest.</title>
+            <author>Antient member of that long agoe gathered congregation.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94435</idno>
+            <idno type="STC">Wing T1385</idno>
+            <idno type="STC">Thomason E17_18A</idno>
+            <idno type="EEBO-CITATION">99872638</idno>
+            <idno type="PROQUEST">99872638</idno>
+            <idno type="VID">125083</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94435)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125083)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 3:E17[18A])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To Sions virgins: or, A short forme of catechisme of the doctrine of baptisme, in use in these times that are so full of questions. By an antient member, of that long agoe gathered congregation, whereof Mr. Henry Jacob was an instrument of gathering it, and the pastour worthy of double honour, Mr. John Lathroppe succeeding him, now pastor in New England; and the beloved congregation, through  Gods mercies sees her teachers, waiting when God shall give more liberty and pastours according to his own heart, praying the Lord of the harvest to thrust forth labourers into his harvest.</title>
+                  <author>Antient member of that long agoe gathered congregation.</author>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nou: 4th"; "London".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125083:1"/>
+            <!-- PDF PAGE 72 -->
+            <pb facs="tcp:125083:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 72 -->
+            <p>TO SIONS VIRGINS: OR A SHORT FORME OF Catechiſme of the Doctrine of BAPTISME, In uſe in theſe times that are ſo full of Queſtions.</p>
+            <p>By an Antient Member, of that long agoe ga<g ref="char:EOLhyphen"/>thered Congregation, whereof Mr. <hi>Henry Jacob</hi> was an Inſtrument of gathering it, and the Paſtour worthy of double honour, Mr. <hi>John Lathroppe</hi> ſucceeding him, now paſtor in <hi>New-England;</hi> and the beloved Congregation, through Gods mercies ſees her teachers, waiting when God ſhall give more liberty and Paſtours according to his own heart, praying the Lord of the har<g ref="char:EOLhyphen"/>veſt to thruſt forth labourers into his harveſt.</p>
+            <p>Printed in the yeare 1644.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:125083:2"/>
+            <!-- PDF PAGE 73 -->
+            <pb facs="tcp:125083:2"/>
+            <!-- PDF PAGE 73 -->
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Eare, and thy ſoule ſhall live; looke on him whom thou haſt peirced, ſee him crucified in the ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ales, and thou ſhalt be confirmed and comforted. Chriſtian Reader, in the uſe of the Ordinance eye Chriſt; and let thy faith car<g ref="char:EOLhyphen"/>ry thee to that forme as holds forth Chriſt crucified, ſet<g ref="char:EOLhyphen"/>ting him forth in his excellency: Try all things, cleave to that which is good, haſt out of Babell, ſee where Chriſt is held forth in the purity of the Ordinances, eye the Congregations that abide ſteadfaſt in the Apoſtles Doctrine and fellowſhip, minde where the roote of <hi>Jeſſe</hi> is ſet up for an Enſigne, where He raignes in the congregations that ex<g ref="char:EOLhyphen"/>erciſe the power that Chriſt hath left them; taking in what is ſer<g ref="char:EOLhyphen"/>viceable, caſting out what is offencive, ſeparating the pretious from the vile, chooſing out from among themſelves ſuch Officers as are comely.</p>
+            <p>Beware of the taile of the Beaſt, that must draw the third part after him; I wiſh our godly friends would minde it, that ſo eaſily im<g ref="char:EOLhyphen"/>brace old errors new furbuſhed as new truths; it is hard to avoid an error, the godly take up for conſcience and not for feare: But Anti<g ref="char:EOLhyphen"/>chriſt comming downe, the Beaſt will plucke hard to draw the godly; if it were poſſible to deceive the Elect, certainely truthes are not ſo ea<g ref="char:EOLhyphen"/>ſily imbraced as errors; for we are dull of hearing, line upon line, pre<g ref="char:EOLhyphen"/>cept upon precept, here a little and there a little, and we have a ſpirit of fornication that eaſily cloſeth with errour; marke thoſe that make deviſion and avoid them, the letter is a killing letter, a dead litter if it ſpeake not Chriſt; the forme is a darke light, if it hold not forth Chriſt crucified, as whole wafers and whole water, no powring, nor no brea<g ref="char:EOLhyphen"/>king. What I have received by hearing and ſeeing, I deſire to ma<g ref="char:EOLhyphen"/>nifest in defence of the Baptiſme and forme we have received, not be<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:125083:3"/>
+               <!-- PDF PAGE 74 -->eaſily moved, but as Chriſt ſhall more manifeſt himſelfe, which I cannot conceive to bee in the dipping the head, the creature going in and out of the water, the forme of baptiſme doth more or leſſe held forth Chriſt.</p>
+            <p>And it is a fad thing that the Citizens of <hi>Sion</hi> ſhould have their children borne forreiners not to be baptized; but as thoſe that be called afarre off, the Gentiles being grafted into the Jewes, ſhal not there ſeede as Olive plants be round about the Table, and trained up in the houſe of God as it were at the feete of Chriſt as Paul at the feete of Gama<g ref="char:EOLhyphen"/>liell?</p>
+            <p>But what ſhall we ſay, great ſtarres muſt fall, and ſome of the juſt ſhall goe through the flames for their purging.</p>
+            <p>But here is our comfort, theſe ſignes ſhall follow beleeving and be<g ref="char:EOLhyphen"/>leevers,
+<list>
+                  <item>
+                     <hi>1</hi> out of their bellies ſhall flow rivers of waters of l<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e through Chriſt.</item>
+                  <item>
+                     <hi>2.</hi> They ſhall caſt downe the fiery temptations as devills through him.</item>
+                  <item>
+                     <hi>3.</hi> Thirdly, they ſhall remove their corruptions as mountaines.</item>
+                  <item>
+                     <hi>4.</hi> And if they drinke any groſſe errours as deadly poyſon it ſhall not hurt them, but be for their purging: wherefore take heede of rayling, mocking, perſecuting, for though the juſt fall, they ſhall riſe againe, but the wicked ſhall fall to deſtruction; Baptiſme declares In<g ref="char:EOLhyphen"/>fante to be virgins, the Supper declares beleevers to be ſpouſes.</item>
+               </list>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125083:3"/>
+            <!-- PDF PAGE 74 -->
+            <head>QVERES CONCERNING BAPTISME.</head>
+            <p n="1">
+               <label>1. QVeſt.</label> Why are Infants to be Baptiſed?</p>
+            <p>
+               <label>Anſw.</label>
+               <list>
+                  <item>1. Becauſe they are of the Kingdome that are dehorted from feare.</item>
+                  <item>2. Becauſe they are of the many Nations that are to be ſprinkled.</item>
+                  <item>3. Becauſe they are of the ſpouſe that is waſh<g ref="char:EOLhyphen"/>ed in the blood of Chriſt,<note place="margin">Eſa. 52.15.</note> as the Infants of old were of the vine that was brought out of <hi>Egypt,</hi> and baptiſed in the cloud and in the Sea.<note place="margin">Pſal 80.8. &amp;c.</note>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> Who baptiſed Iſraell of old?<note place="margin">1 Cor. 10.2.</note>
+            </p>
+            <p>
+               <label>A.</label> God ſhooke out a plentifull raine, whereby hee did con<g ref="char:EOLhyphen"/>firme his heritage when it was weary unto <hi>Moſes,</hi> who was a Type of Chriſt.<note place="margin">Pſal 68 9.</note>
+            </p>
+            <p>
+               <label>Q.</label> Why is to Baptiſe under the Goſpel?</p>
+            <p>
+               <label>A.</label> The Spouſe of Chriſt by her Officialls in the name of Chriſt.</p>
+            <p>
+               <label>Q.</label> Why is baptiſme to be done in the name of Chriſt, and not unto the name of Chriſt?</p>
+            <p>
+               <label>A.</label> Becauſe unto, is Chriſts owne worke; In the name of the three is the Churches worke by the power of Chriſt, as an inferiour Officer comes in the name of the King, and by his au<g ref="char:EOLhyphen"/>thority.</p>
+            <p>
+               <label>Q.</label> Why is it ſaid then that they that are baptiſed unto Chriſt, have put on Chriſt?</p>
+            <p>
+               <label>A.</label> Yea, they that are baptiſed by the Spirit, which is Chriſts owne worke hath put on Chriſt, but not all that are baptiſed
+<pb facs="tcp:125083:4"/>
+               <!-- PDF PAGE 75 -->by water, the worke of an inferiour Officer to Chriſt.</p>
+            <p>
+               <label>Q.</label> What forme is to be uſed in baptiſme?</p>
+            <p>
+               <label>A.</label> The Miniſter is to dip his hand and to powre cleane wa<g ref="char:EOLhyphen"/>ter, ſprinkle and waſh the ſinner, and ſo it is fully baptiſed.</p>
+            <p>
+               <label>Q.</label> Is not dipping of the head full baptiſme?</p>
+            <p>
+               <label>A.</label> No, not without powring, ſprinkling, and waſhing, no more then giving whole wafers in the ſupper, there was bread, but no breaking ſhewing forth Chriſts ſufferings, ſo whole ri<g ref="char:EOLhyphen"/>vers,<note place="margin">Eſa. 63.3.</note> ſhewes not forth Chriſts ſufferings powring him out like water beſprinkling all his rayment.<note place="margin">Pſal. 22.11.</note>
+            </p>
+            <p>
+               <label>Q</label> What is it for the ſinners to goe into the water themſelves, and come out themſelves to ſhew forth death and buriall?</p>
+            <p>
+               <label>A.</label> A lying ſigne, to make a figure of the creature, for wee muſt ſee Chriſt in the imployment of the Officer and uſe of the water, powring, ſprinkling, waſhing, there muſt bee a dipper dipping his hand, but not a dipped, but in Chriſt himſelfe who by his owne power puts into himſelfe the Rocke and foun<g ref="char:EOLhyphen"/>taine. The ſeeing eye and the hearing eare, God hath made them both.<note place="margin">Pro. 20.12.</note>
+            </p>
+            <p>
+               <label>Q.</label> What doe we heare in the Goſpel?</p>
+            <p>
+               <label>A.</label> Glad tydings.</p>
+            <p>
+               <label>Q</label> What doe we ſee in the Seales?</p>
+            <p>
+               <label>A.</label> Chriſt crucified.</p>
+            <p>Q. <hi>How is Chriſt crucified in baptiſme?</hi>
+            </p>
+            <p>
+               <label>A.</label> Chriſt was powred out like water, water iſſued out of his ſide when he was pierced,<note place="margin">Pſal. 22.14.</note> ſo ſhall he ſprinkle many nations.</p>
+            <p>
+               <label>Q</label> What ſpeakes baptiſme to beleevers?<note place="margin">Eſa. 52.15.</note>
+            </p>
+            <p>
+               <label>A.</label> It ſpeakes better things then the blood of <hi>Abell.</hi>
+            </p>
+            <p>
+               <label>Q</label> What ſpeakes powring out of water?</p>
+            <p>
+               <label>A.</label> 
+               <list>
+                  <item>1. It ſpeake Chriſt powred out like water.</item>
+                  <item>2. It ſpeakes Chriſt powring out cleane water upon be<g ref="char:EOLhyphen"/>leevers waſhing away filth.</item>
+                  <item>3. It ſpeakes powring out the ſpirit, ſo that out of the belly of beleevers may flow rivers of water of life.<note place="margin">Ioh. 7.38.</note>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <label>Q</label> What ſpeakes waſhing?</p>
+            <p>
+               <label>A.</label> It ſpeaks waſhing from filthineſſe and clenſing from ſin.</p>
+            <p>
+               <label>Q.</label> What ſpeakes ſprinkling?</p>
+            <p>
+               <label>A.</label> 
+               <list>
+                  <item>1. It ſpeakes ſprinkling the conſcience from dead works.<note place="margin">Heb. 9.14.</note>
+                  </item>
+                  <item>
+                     <pb facs="tcp:125083:4"/>
+                     <!-- PDF PAGE 75 -->
+2. It ſpeakes our high calling being called to the blood of ſprinkling.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> Why are Infants Baptiſed?</p>
+            <p>
+               <label>A.</label> Becauſe they are of the Kingdome.</p>
+            <p>
+               <label>Q</label> What is it to Infants that they are baptiſed and ſo received into the viſible congregation?</p>
+            <p>
+               <label>A.</label> Much every manner of way,
+<list>
+                  <item>1. they are under the pray<g ref="char:EOLhyphen"/>er of the Church,</item>
+                  <item>2. they are under the care of the Church.</item>
+                  <item>3. of them is ingrafted into Chriſt, ſo received into the viſi<g ref="char:EOLhyphen"/>ble vine to live under the dropping of the Sanctuary as grow<g ref="char:EOLhyphen"/>ing plants in the houſe of God,<note place="margin">Pſa. 92.13, &amp;c.</note> to flouriſh in old age as tender ſprigs,<note place="margin">Pſal. 128.</note>
+                  </item>
+                  <item>4. in the vine to bring forth grapes in due time,</item>
+                  <item>5. as Olive plants round about the Table, Loe thus art thou bleſſed that feareſt God.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> What may the children of the Church be likened unto?</p>
+            <p>
+               <label>A.</label> Unto the Virgins, without number.<note place="margin">Cant. 6.8.</note>
+            </p>
+            <p>
+               <label>Q.</label> How is faith &amp; confeſſion of ſin acted in the baptizing an Infant?</p>
+            <p>
+               <label>A.</label> As the faith of others carried the Palſie man to Chriſt to be healed, beleeving his Alſufficiency,<note place="margin">Mat. 92. Mar. 2.3, &amp;c. Luk. 5.18, &amp;c.</note> ſo the faith of the Pa<g ref="char:EOLhyphen"/>rents carrieth the Infants to the ordinance preſenting it to the congregation,
+<list>
+                  <item>1. confeſſing originall ſinne,</item>
+                  <item>2. beleeving God is there God and the God of their ſeede,</item>
+                  <item>3. ſhewing the neede they have of Chriſt;</item>
+               </list> 
+ſo leaving the Infant in the Houſe of God, to grow up in his Courts at the ſole of Chriſts feete.</p>
+            <p>
+               <label>Q.</label> How is the faith of beleevers in the congregation confirmed in the waſhing of an Infant?</p>
+            <p>
+               <label>A.</label> Much is their confirmation,
+<list>
+                  <item>1. they ſee the neede they have of Chriſt as the Infant,</item>
+                  <item>2. they ſee their inability to im<g ref="char:EOLhyphen"/>brace Chriſt, as the infant, but as Chriſt imbraceth them, as the infants,</item>
+                  <item>3. they remember Chriſts everlaſting love before the foundation of the world, waſhing them, powring cleane water upon them and their ſeede,<note place="margin">Eſa. 52.15.</note> and ſeeds ſeede to thouſand generations.</item>
+                  <item>4. Beleeving the promiſe,<note place="margin">Pſal. 80.8, &amp;c.</note> they ſee Chriſt powred out like water ſuffering for them and their ſeede.</item>
+                  <item>5. They ſee Chriſt calling us to the blood of ſprinkling by ſprinkling from dead workes.<note place="margin">1 Cor. 10.2. Pſal. 68.9.</note>
+                  </item>
+               </list>
+            </p>
+            <p>Thus learning Chriſt wee are to meditate upon him in the uſe of Baptiſme, what ever the Goſpel publiſheth the ſeales
+<pb facs="tcp:125083:5"/>
+               <!-- PDF PAGE 76 -->holds forth, ſo they that have a hearing eare, and a ſeeing eye, ſhall behold Chriſt crucified in the uſe of the Ordinances.</p>
+            <p>
+               <label>Q.</label> How is Chriſt taught in Baptiſme by the ſeeing of the eye for the confirmation of beleevers beholding Infants baptiſed?</p>
+            <p>
+               <label>A.</label> Chriſt is taught in his Natures, in his Attributes, in his Name and in his Offices.</p>
+            <p>
+               <label>Q.</label> How doe beleevers ſee Chriſts Name in baptiſme?</p>
+            <p>
+               <label>A.</label> Chriſts Name is an oyntment powred forth, ſeene in powring water on the ſinner, as oyle on the head of his Prieſts running downe to the skirts of the garments.</p>
+            <p>
+               <label>Q.</label> How is Chriſts Attributes ſeene in baptiſme?</p>
+            <p>
+               <label>A.</label> Chriſts everlaſting love is ſeene in waſhing, he loved his Elect before the foundation of the world, and waſhed them in his blood, ſo is his Wiſedome, Power, Mercy, and unchange<g ref="char:EOLhyphen"/>ableneſſe ſeene in its reſtoring loſt mankinde.</p>
+            <p>
+               <label>Q.</label> How is Chriſts Nature held forth, ſeene in baptiſme?</p>
+            <p>
+               <label>A.</label> As he was man he ſuffered, and water iſſued out of his ſide, he was powred out like water; As he was God he waſh<g ref="char:EOLhyphen"/>eth and purgeth us, ſprinkleth us with his blood, holding his elect by the right hand of his power in <hi>Adams</hi> fall.</p>
+            <p>
+               <label>Q.</label> How is Chriſts Offices held forth and ſeene in baptiſme?</p>
+            <p>
+               <label>A.</label> As he is our high Prieſt he offers up himſelfe; (ſeene as I take it ſubmitting to better judgement) in lifting up the wa<g ref="char:EOLhyphen"/>ter to power it one the baptiſed; As Chriſt is a Prieſt, he dips his hand to waſh and ſprinkle, ſeene in powring, waſhing and ſprinkling water on the ſinner.</p>
+            <p>
+               <label>Q.</label> How is Chriſt ſeene as our Prophet to teach in baptiſme?</p>
+            <p>
+               <label>A.</label> By theſe Rites Chriſt teacheth beleevers.
+<list>
+                  <item>1. What hee hath done for them, waſhing them before time.</item>
+                  <item>2. What hee hath done for them at the fulneſſe of time, being powred out like water.</item>
+                  <item>3. What he doth in them, powring out his ſpirit up<g ref="char:EOLhyphen"/>on them.</item>
+                  <item>4. What he will doe for them when he gives up his Kingdome to the Father preſenting them without blame, ha<g ref="char:EOLhyphen"/>ving purged them, waſhed them for dead he wil bring them to glory.</item>
+               </list> This Chriſt as he is our Prophet teacheth by baptiſme.</p>
+            <p>
+               <label>Q</label> How doth Chriſt ſhew his Kingly Office by baptiſme?</p>
+            <p>
+               <label>A.</label> Hee takes the Dominion of his Elect, and receives them into his Kingdome, being received into the viſible congrega<g ref="char:EOLhyphen"/>tion by baptiſme.</p>
+            <p>
+               <pb facs="tcp:125083:5"/>
+               <!-- PDF PAGE 76 -->
+               <label>Q.</label> What doth Chriſt teach beleevers ſeeing water and Wa<g ref="char:EOLhyphen"/>ſhing?</p>
+            <p>
+               <label>A.</label> Chriſt teacheth beleevers to ſee their owne filthi<g ref="char:EOLhyphen"/>neſſe, and their neede of Chriſt.</p>
+            <p>
+               <label>Q.</label> What doth Christ teach beleevers by powring water on the baptized Infants or other.</p>
+            <p>
+               <label>A.</label> Chriſt teacheth beleevers to power out their ſoules to him, hee having powred out his Spirit upon them gi<g ref="char:EOLhyphen"/>ving them power to be his Sonnes and Daughters, ſo there is great uſe to eye Chriſt in the uſe of the ordi<g ref="char:EOLhyphen"/>nance as once to be baptiſed.</p>
+            <p>
+               <label>Q.</label> What is held forth of Chriſt in dipping the Baptiſed?</p>
+            <p>
+               <label>A.</label> To dip an Infant there is a dim light of Chriſt, as in the whole wafer no ſhewing forth Chriſt his ſuffe<g ref="char:EOLhyphen"/>ring; but for a creature to goe in and out of the water, the dipper to dip downe the head is no ſhewing Chriſt at all as I can ſee, I have not ſo learned Chriſt.</p>
+            <p>
+               <label>Q.</label> How are wee buried by baptiſme with Chriſt?</p>
+            <p>
+               <label>A.</label> When he was buried by baptiſme ſweating water &amp;c blood, he was buried by baptiſme being under the wrath of the Father all his wa<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es were over him, then were the Elect buried with him having communion with him in his death, when <hi>Mary</hi> came aforehand to bury him, it being manifeſted to beleevers when they are baptiſed by the ſpirit dying unto ſin, &amp; riſing unto newnes of life, but when Chriſt was buried by <hi>Nicodemu<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> in the duſt, there is no neede of ſhewing forth that buriall, nor his reſurrection ſeeing he was ſeen after his Reſurrection: So by his power ſhall naturall man riſe, yea ſuch as ſhall have no Communion with him in his divine death and buriall as he was God and man, making ſatisfaction for mankinde.</p>
+            <p>On the goodneſſe of God publiſhed in the Goſpel ſeene in the ſeales let them that have a hearing eare, heare and obey, let them that have a ſeeing eye, ſee Chriſt crucified looke one him whom wee have peirced and be comforted.</p>
+            <p>
+               <pb facs="tcp:125083:6"/>
+               <!-- PDF PAGE 77 -->
+               <label>Q.</label> Why may it bee ſaid that beleevers have communion in Chriſts divine death?</p>
+            <p>
+               <label>A.</label> Not in that any part of Chriſts divine nature dyed or ſuffered, but as he was man he dyed, having commu<g ref="char:EOLhyphen"/>nion with the Father, by his divine nature he overcame death, who in the dayes of his fleſh offered up ſtrong cryes and teares and was ſaved from death in that hee feared. So the Elect have communion with Chriſt in his ſufferings, manifeſted to them by the baptiſme of the ſpirit, being made partakers of the Divine nature they dye to ſinne, and riſe to newneſſe of life, Chriſt dyed for ſinne and roſe againe for our juſtification.</p>
+            <p>So beleevers die to ſinne and riſe to newneſſe of life, ju<g ref="char:EOLhyphen"/>ſtifying themſelves to others that they are riſen with Chriſt.</p>
+            <p>The receiving the water in Baptiſme, doth not ſhew forth what Chriſt hath done and ſuffered, but the im<g ref="char:EOLhyphen"/>ployment of the Officer dipping his hand, ſo fleſh is dip<g ref="char:EOLhyphen"/>ped, and the body waſhed, the principall part for the whole.</p>
+            <p>So waſhed by dipping the hand, baptiſed fully, waſh<g ref="char:EOLhyphen"/>ing, powring, ſprinkling, ſhewes forth Chriſt ſuffers.</p>
+            <p>The receiving bread and wine and eating doth not ſhew forth Chriſts death, no more then the receiving of the water in Baptiſme: But breaking bread and powring out wine ſhewes forth Chriſts death.</p>
+            <p>He was broken for our tranſgreſſions, his ſoule made an offering for ſinne, ſeen in breaking of bread, hee powred out his ſoule for us, and ſitts at the right hand of the father making interceſſion, ſhewed forth in powring out wine.</p>
+            <p>The two ſeales under the Goſpel are of one nature, but waſhing makes us capeable of eating.</p>
+            <p>So Circumſition makes them capeable of eating the Paſſover.</p>
+            <p>
+               <label>Q.</label> Then ſayes ſuch as be called Anabaptiſts, why doe not children eate the Supper?</p>
+            <p>
+               <pb facs="tcp:125083:6"/>
+               <!-- PDF PAGE 77 -->
+               <label>Anſ.</label> Children were not capeable of eating the paſſeo<g ref="char:EOLhyphen"/>ver before they were capeable of Inſtruction, asking the Parents what it meant; So the children of the Church are not capeable of the ſupper before they can examine themſelves; wherefore let ſuch as deny Infants baptiſ<g ref="char:EOLhyphen"/>me, and goe into the water and dip downe the head and come out to ſhew death and buriall, take heede they take not the name of the Lord in vaine, more eſpecially ſuch as have received baptiſme in their Infancy.</p>
+            <p>It is in vaine to baptiſe them againe, let them take heede that teach, theſe new truths as they call them, theſe new formes or newly taken up.</p>
+            <p>Let them take heede they be not the tayle of the beaſt, for the Prophet that teacheth lyes is the tayle, <hi>Eſay</hi> 9.15.</p>
+            <trailer>FINJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
